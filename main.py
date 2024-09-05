@@ -1,6 +1,5 @@
 import discord
 import re
-import os
 from googleapiclient.discovery import build
 from dotenv import load_dotenv
 
